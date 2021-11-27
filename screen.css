@@ -11,7 +11,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-  margin: 0;
+  margin: 2;
   padding: 0;
   border: 0;
   font-size: 50%;
@@ -19,7 +19,8 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 body {
-  line-height:5; }
+  line: height 3px;
+ }
 
 ol, ul {
   list-style: none; }
@@ -63,6 +64,7 @@ h1 {
 p { 
     font-size: 20px
     color: #000000
+    
 
 /* Add a black backround color to the top navigation */
 .topnav { 
