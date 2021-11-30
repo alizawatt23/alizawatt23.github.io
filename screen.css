@@ -59,14 +59,14 @@ a {
   padding: 50px; }
 
 h1 { 
-    font-size: 20px;
+    font-size: 30px;
     color: #000000
-p { 
+b { 
     font-size: 20px
     color: #000000
     
 
-/* Add a black backround color to the top navigation */
+
 .topnav { 
   backround-color: #009ce0
   overflow: hidden;
